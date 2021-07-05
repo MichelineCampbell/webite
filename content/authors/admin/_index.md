@@ -9,7 +9,7 @@ education:
     institution: University of Queensland
     year: 2014
   - course: BA in Geography and Spanish
-    institution: Univesity of Queensland
+    institution: University of Queensland
     year: 2012
 # email: ""
 highlight_name: false

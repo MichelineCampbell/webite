@@ -1,31 +1,32 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I am a postdoctoral researcher in palaeo-climate, currently contributing to the ARC Discovery project 'Reconstructing Australia’s fire history from cave stalagmites.'
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Geography
+    institution: University of Western Australia
+    year: 2019
+  - course: BA (Hons) in Geography
+    institution: University of Queensland
+    year: 2014
+  - course: BA in Geography and Spanish
+    institution: Univesity of Queensland
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+# email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Palaeoclimate
+- Fire history
+- Water resource management
+- R 
+
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of New South Wales
+  url: https://www.unsw.edu.au/
+role: Research Associate
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
+# - icon: envelope
+#   icon_pack: fas
+#   link: /#contact
 - display:
     header: true
   icon: twitter
@@ -34,19 +35,19 @@ social:
   link: https://twitter.com/michcampbell
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.au/citations?user=twl8ILwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/MichelineCampbell
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/
 superuser: true
-title: Micheline Campbell
+title: Dr. Micheline Campbell
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral researcher at the University of New South Wales, Australia. I am currently employed on the Australian Research Council Discovery Project 'Reconstructing Australia’s fire history from cave stalagmites.'
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Originally from Far North Queensland, I completed my BA at The University of Queensland, and then my PhD at the University of Western Australia, where I researched the  [Palaeoclimate of the Snowy Mountains in New South Wales](https://research-repository.uwa.edu.au/en/publications/speleothem-based-palaeo-climate-research-methodology-applications). After my PhD I worked for Queensland Department of Environment and Science, before taking up a Postdoctoral position at [University College Dublin](https://palaeoclimate.com.au/), where I worked in conjunction with the Queensland State Government and water utility companies to reconstruct develop a database of Australasian palaeoclimate records and reconstruct 1000 years of rainfall for southeast Queensland. In June 2021 I joined the University of New South Wales, where I am working with researchers at UNSW and the Australian Nuclear Science and Technology Organisation to reconstruct fire histories in Western Australia.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.

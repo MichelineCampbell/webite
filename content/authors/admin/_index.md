@@ -20,8 +20,9 @@ interests:
 - Water resource management
 - R 
 
-# publications:
-# - {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Campbell2017.pdf" "newtab" >}}paper{{< /staticref >}}.
+publications:
+- list1
+- list 2
 
 organizations:
 - name: University of New South Wales

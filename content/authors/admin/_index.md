@@ -1,5 +1,5 @@
 ---
-bio: I am a postdoctoral researcher in palaeo-climate, currently contributing to the ARC Discovery project 'Reconstructing Australia’s fire history from cave stalagmites.'
+# bio: I am a postdoctoral researcher in palaeo-climate, currently contributing to the ARC Discovery project 'Reconstructing Australia’s fire history from cave stalagmites.'
 
 education:
   courses:
